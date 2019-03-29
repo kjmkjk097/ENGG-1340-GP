@@ -7,7 +7,7 @@
 
 ### Problem Statement
 
- Movie industry have been loved by myriads of people. Many people will normally purchase their movie tickets in cinema counter -offline- and directly head into watch movie. However, in many walk-in cases, there are high chance of customers missing their movie tickets on desired time due to sold out or even because they arrived late (with unexpected reasons). 
+ Movie industry have been loved by myriads of people. Many people will normally purchase their movie tickets in cinema counter -offline- and directly head into watch movie. However, in many walk-in cases, there are high chance of customers missing their movie tickets on desired time due to the sold out or even late arrival.(with unexpected reasons). 
  
 For many people, it would be really convenient if they can buy or refund movie tickets through online. This system will provide an easy pathway of buying movie tickets for the customers. As well as analyzing the most-famous movie by analysing the number of tickets sold out. Hence giving recommendation to the future users until the specific movie stops screening. 
 
@@ -15,7 +15,7 @@ For many people, it would be really convenient if they can buy or refund movie t
 
 1. provide convenient platform for the users
 
-2. Allows the user to search/select movie 
+2. Allow the user to search/select movie 
 
 3. Store user information (creating an output file for individual users who bought ticket);
 
