@@ -242,10 +242,6 @@ void modifyRecord()
 	
 	printf("\nEditing record number %s Please enter the following details:", data[wantedLoop].bookNum);
 	fflush(stdin);
-	
-/*	printf("\n1)Booking Number:\t");
-	gets(data[wantedLoop].bookNum);
-	strcat(data[wantedLoop].bookNum, "\n");*/
 			
 	printf("\n2)Name of Customer:\t");
 	gets(data[wantedLoop].name);
