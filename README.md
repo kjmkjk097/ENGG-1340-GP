@@ -1,21 +1,15 @@
 # ENGG-1340-GP
-## Staff Management System
-### Problem: target to develop a system to collect and manage the employee information;
+## Movie Ticketing System
 
-**basic features:**
+Problem Statement:
+Movie Industry have been loved by many people. These people will normally purchase their movie tickets in the cinema counter (offline) and directly head into watch movie. However, in many walk-in cases, there are high chance of customers missing their movie tickets on desired time due to sold out or even because they arrived late (with unexpected reasons)
 
-1) create a new employee id, name, age, role, and salary
+For many people, it would be really convenient if they can buy or refund movie tickets through online. This system will provide an easy pathway of buying movie tickets for the customers. As well as adding/deleting/editing the records
 
-2) search for and delete an employee via their 1) informations
-
-3) fire the employee
-
-4) edit the details of an existing employee
-
-5) search for all employees with a salary higher than of lower than a user input
-
-6) allos adding user-defined attributes, the value of new attributes of the existing employee whould be empty of undefined
-
-A menu should be required to help the users realize function 2-4
-
-**Please think of a useful function that is not mentioned before, add it to your system**
+The purpose of this project is to:
+  1. Provide convenient platform for the users
+  2. Allows the user to search/select movie
+  3. Store user information (Creating an output file for individual us    ers who bought ticket)
+  4. Display user information
+  5. Allow user to delete the booking
+  6. Users can add comment on Movie
